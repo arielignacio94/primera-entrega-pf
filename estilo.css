@@ -1,0 +1,210 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    background-image:url(https://images.pexels.com/photos/39511/purple-grapes-vineyard-napa-valley-napa-vineyard-39511.jpeg?cs=srgb&dl=pexels-pixabay-39511.jpg&fm=jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+h1 {
+    margin: 1rem;
+    padding: 0,7rem;
+    color: mediumvioletred;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    text-align: center;
+
+}
+h2{ 
+    margin: 0,7rem;
+    padding: 0,7rem;
+    color: mediumvioletred;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+.opciones{
+    list-style-type:none;
+    margin: 1rem;
+    padding: 1rem;
+    background-color: mediumvioletred;
+    text-align: start;
+}
+.opciones li{
+    display: inline-block;
+    margin: 1rem;
+    padding: 1rem;
+    font-size: 20px;
+}
+main{
+    margin: 50px;
+    padding: 50px;
+}
+.palermo{
+    margin: 1rem;
+    width: 150px;
+    height: 30px;
+    background-color: mediumvioletred;
+}
+.foto1{
+    margin: 1rem;
+    padding: 0px;
+    height: 370px;
+    width: 540px;
+    border: 20px mediumvioletred solid;
+}
+.recoleta{
+    margin: 1rem;
+    width: 150px;
+    height: 30px;
+    background-color: mediumvioletred;
+}
+.foto2{
+    margin: 1rem;
+    padding: 0px;
+    height: 370px;
+    width: 540px;
+    border: 20px mediumvioletred solid;
+}
+.footer{ 
+    margin: 20px;
+    padding: 0px;
+    color: rgb(0, 0, 0);
+    background-color:mediumvioletred ;
+}
+.body2{
+    background-color: black;
+    background-image:url(https://images.pexels.com/photos/21393/pexels-photo.jpg?cs=srgb&dl=pexels-math-21393.jpg&fm=jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin: 1rem;
+    padding: 1rem;
+}
+.divtabla {
+    list-style-type:none;
+    display:flex;
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+}
+.tabla2{
+    background-color:mediumvioletred;
+}
+.lista{
+    margin: 1rem;
+    padding: 1rem;
+    color: mediumvioletred;
+    text-align: start;
+    font-family: 'Lobster', cursive;
+    display:inline-block;
+    text-decoration: underline;
+}
+
+
+.nuestrosvinos{
+    margin: 1rem;
+    padding: 1rem;
+    color: mediumvioletred;
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+.main2{
+    margin: 0px;
+    padding:0px;
+    text-align:start;
+
+
+}
+.body3{
+    background-color: black;
+    background-image:url(https://images.pexels.com/photos/1277181/pexels-photo-1277181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.h1contacto{
+    margin: 1rem;
+    padding: 1rem;
+    color: mediumvioletred;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    text-align: center;
+    font-size: 200%;
+}
+.seccion{
+    list-style-type:none;
+    margin: 1rem;
+    padding: 1rem;
+    text-align: start;
+}
+.titulo2{
+    margin: 1rem;
+    padding: 1rem;
+    color: mediumvioletred;
+    text-align: start;
+    font-family: 'Lobster', cursive;
+    font-size: 200%;
+    text-decoration: underline;
+}
+.titulo4{
+    margin: 0,7rem;
+    padding: 0,7rem;
+    color: rgb(8, 8, 8);
+    text-align: start;
+    font-family: 'Lobster', cursive;
+}
+    .formulario3{
+        margin:1rem;
+        padding: 1rem;
+        width: 30%;
+        background-color:mediumvioletred;
+        }
+        .fin{ 
+            margin: 20px;
+            padding: 0px;
+            color: rgb(0, 0, 0);
+            background-color:mediumvioletred ;
+        }
+        .body4{
+            background-color: black;
+    background-image:url(https://images.pexels.com/photos/1283219/pexels-photo-1283219.jpeg?cs=srgb&dl=pexels-chris-f-1283219.jpg&fm=jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+            }
+        .opciones4{
+            margin:1rem;
+            padding: 1rem;
+            width: 30%;
+            background-color:mediumvioletred;
+            }
+            .productos4{
+                margin: 1rem;
+                padding: 1rem;
+                color: mediumvioletred;text-align: start;
+            }
+            .body5{
+                margin: 0%;
+                padding: 0%;
+                background-color: url(https://images.pexels.com/photos/1410138/pexels-photo-1410138.jpeg?cs=srgb&dl=pexels-lukas-1410138.jpg&fm=jpg);
+                background-size:cover;
+                background-repeat: no-repeat;
+                background-position: center; 
+                list-style-type: none;
+            }
+            .nosotros{
+                margin: 1rem;
+                padding: 0,7rem;
+                color: mediumvioletred;
+                font-style: normal;
+            }
+            .parrafo{
+                margin: 1rem;
+                padding: 0,7rem;
+                text-align: center;
+                color: black;
+
+            }
+
+
